@@ -12,6 +12,8 @@
 A skill for coding agents. It turns work you and a human just did together into a
 tutorial a beginner can follow from an empty folder to a working program.
 
+Product page: [fworkslab.github.io/other/build-with-me](https://fworkslab.github.io/other/build-with-me/index.en.html)
+
 [Русский](README.ru.md)
 
 </div>
