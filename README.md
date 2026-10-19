@@ -1,18 +1,26 @@
-[Русский](README.ru.md)
+<div align="center">
 
 # build-with-me
+
+### A SKILL FOR CODING AGENTS
 
 ![OpenCode skill](https://img.shields.io/badge/OpenCode-skill-51418d?label=package)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-lightgrey?label=license)
 
-> Write a "build along with me" tutorial — volumes, chapters, every element
-> explained, every line written out live with its reason and its consequence,
-> and both the errors that actually happened and the ones you are about to hit.
+**Turns work you did with a human into a build-along tutorial.**
 
 A skill for coding agents. It turns work you and a human just did together into a
 tutorial a beginner can follow from an empty folder to a working program.
 
+[Русский](README.ru.md)
+
+</div>
+
 ---
+
+> Write a "build along with me" tutorial — volumes, chapters, every element
+> explained, every line written out live with its reason and its consequence,
+> and both the errors that actually happened and the ones you are about to hit.
 
 ## The problem it solves
 
