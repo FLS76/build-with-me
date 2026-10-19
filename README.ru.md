@@ -13,6 +13,8 @@
 человеком, в туториал, который новичок пройдёт от пустой папки до рабочей
 программы.
 
+Страница продукта: [fworkslab.github.io/other/build-with-me](https://fworkslab.github.io/other/build-with-me/)
+
 [English](README.md)
 
 </div>
