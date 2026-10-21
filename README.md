@@ -78,13 +78,24 @@ programs read better with chapters alone.
 ## Install
 
 ```bash
+npx skills add <owner>/<repo>@build-with-me -g -y
+```
+
+The skill lands in `~/.agents/skills/build-with-me/SKILL.md` — that directory
+is read by every agent, OpenCode included.
+
+To put it into OpenCode's own directory instead:
+
+```bash
 npx skills add <owner>/<repo>@build-with-me -a opencode -g -y
 ```
+
+Then the skill lands in `~/.config/opencode/skills/build-with-me/SKILL.md`.
 
 Or copy it yourself — a skill is one file with a YAML header:
 
 ```
-~/.config/opencode/skills/build-with-me/SKILL.md
+~/.agents/skills/build-with-me/SKILL.md
 ```
 
 ---
