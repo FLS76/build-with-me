@@ -78,13 +78,24 @@
 ## Установка
 
 ```bash
+npx skills add <owner>/<repo>@build-with-me -g -y
+```
+
+Навык окажется в `~/.agents/skills/build-with-me/SKILL.md` — этот каталог
+читают все агенты, в том числе OpenCode.
+
+Положить его в каталог самого OpenCode:
+
+```bash
 npx skills add <owner>/<repo>@build-with-me -a opencode -g -y
 ```
+
+Тогда навык окажется в `~/.config/opencode/skills/build-with-me/SKILL.md`.
 
 Или скопируй сам — скилл это один файл с шапкой:
 
 ```
-~/.config/opencode/skills/build-with-me/SKILL.md
+~/.agents/skills/build-with-me/SKILL.md
 ```
 
 ---
